@@ -42,6 +42,6 @@ It provides actionable insights into customer behavior, revenue performance, chu
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
